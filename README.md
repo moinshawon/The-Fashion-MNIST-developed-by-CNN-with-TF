@@ -1,1 +1,1 @@
-# The-Fashion-MNIST-developed-by-CNN-with-TF
+The-Fashion-MNIST-developed-by-CNN. The accuracy will be better here. In previous we used to check the all pixel even which is not neccessary. By using CNN convolution layer and max pooling we can reduce them
